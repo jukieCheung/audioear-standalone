@@ -22,7 +22,7 @@ This package provides a clean, portable inference pipeline that can be installed
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/audioear-standalone.git
+git clone https://github.com/jukieCheung/audioear-standalone
 cd audioear-standalone
 ```
 
