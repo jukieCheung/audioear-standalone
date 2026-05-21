@@ -1,6 +1,6 @@
 # AudioEar Standalone Inference
 
-Standalone Python package for **AudioEar 3D ear reconstruction** — with **no PyTorch3D dependency**.
+Standalone Python package for **AudioEar 3D ear reconstruction(https://github.com/seanywang0408/AudioEar)** — with **no PyTorch3D dependency**.
 
 This package provides a clean, portable inference pipeline that can be installed via `pip` and run on any machine with PyTorch. It also includes an optional **SSM latent refinement** module (trained on AudioEar3D) that improves morphological accuracy.
 
@@ -237,9 +237,10 @@ MIT License. See original AudioEar paper for model licensing.
 If you use this package, please cite the original AudioEar work:
 
 ```bibtex
-@article{audioear2023,
-  title={AudioEar: Audio-Guided 3D Ear Reconstruction},
-  journal={...},
+@article{huang2023audioear,
+  title={AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio},
+  author={Huang, Xiaoyang and Wang, Yanjun and Liu, Yang and Ni, Bingbing and Zhang Wenjun and Liu Jinxian and Li, Teng},
+  journal={arXiv preprint arXiv:2301.12613},
   year={2023}
 }
 ```
