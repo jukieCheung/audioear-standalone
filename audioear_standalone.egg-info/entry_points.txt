@@ -1,0 +1,2 @@
+[console_scripts]
+audioear-inference = scripts.run_inference:main
