@@ -42,7 +42,7 @@ This registers the `audioear-inference` CLI command.
 
 ### 3. Download model weights
 
-See [`weights/README.md`](weights/README.md) for weight download instructions. Place them in the `weights/` directory.
+See [`weights/README.md`](weights/README.md). For weight download: (https://drive.google.com/file/d/1z_LDMSJJdjTAsSTKgDFwqPUbiEvvmNrQ/view?usp=sharing). Place them in the `weights/` directory.
 
 ---
 
